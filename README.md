@@ -4,6 +4,9 @@ Welcome to my corner of GitHub, where AI systems come to be stress-tested, debug
 
 I am a researcher (Ph.D. from the University of South Carolina) working at the intersection of robust AI, causality, and explainability. I build tools that do not just say models are good or bad, but prove it. Or break them trying.
 
+### Built a model? Great. But can you trust it?
+Check out the causal rating tool I built to measure model robustness: [ARC](http://casy.cse.sc.edu/causal_rating)
+
 ## About Me
 
 - 🧪 I evaluate AI systems (especially LLMs and forecasting models) under perturbations, confounders, and stress conditions to see what falls apart and what holds up.
