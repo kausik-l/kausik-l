@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kausik
 
-Welcome to my corner of GitHub, where causal graphs, time series, and AI systems come to be stress-tested, debugged, and occasionally bullied into behaving.
+Welcome to my corner of GitHub, where AI systems come to be stress-tested, debugged, and occasionally bullied into behaving using my causal buddies.
 
 I am a researcher (Ph.D. from the University of South Carolina) working at the intersection of robust AI, causality, and explainability. I build tools that do not just say models are good or bad, but prove it. Or break them trying.
 
