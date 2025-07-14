@@ -28,7 +28,7 @@ I am a researcher (Ph.D. from the University of South Carolina) working at the i
 2. Testing LLaMA-3.1 on time-series forecasting (yes, it's weird — that’s the point).
 3. Combining causality + model evaluation so we stop treating fairness and robustness like afterthoughts.
 
-📂 Featured Projects
+## 📂 Featured Projects
 1. [AI Rating through Causality (ARC)](http://casy.cse.sc.edu/causal_rating) – Quantifying robustness of AI models under confounders and perturbations.
 2. [SafeChat](https://github.com/ai4society/trustworthy-chatbot) – Building safer chatbots very easily.
 
