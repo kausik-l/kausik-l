@@ -12,7 +12,7 @@ I am a researcher (Ph.D. from the University of South Carolina) working at the i
 - 🛠️ I like making ideas tangible: check out my [tool](http://casy.cse.sc.edu/causal_rating) for rating model robustness using causal methods.
 - 📫 How to reach me: kausik@email.sc.edu
 
-## 📊 GitHub Stats
+<--## 📊 GitHub Stats-->
 
 ![Kausik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kausik-l&show_icons=true&theme=radical)
 
