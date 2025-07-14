@@ -34,8 +34,9 @@ I am a researcher (Ph.D. from the University of South Carolina) working at the i
 
 ## 🌐 Links
 
-- [LinkedIn](https://www.linkedin.com/in/kausik-lakkaraju-8a29833a/)
+- [Google Scholar](https://scholar.google.com/citations?user=Cn0qKmYAAAAJ&hl=en)
 - [Personal Website](https://kausik-l.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/kausik-lakkaraju-8a29833a/)
 
 ---
 
