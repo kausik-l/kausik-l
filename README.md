@@ -28,7 +28,7 @@ Who you gonna call?? ARC!! I built this causal rating tool to measure robustness
 
 ## 🔬 Current Obsessions
 1. Making explainability interactive (not one-off) and hypothesis-driven.
-2. Testing LLaMA-3.1 on time-series forecasting (yes, it's weird — that’s the point).
+2. Testing LLaMA-3.1 on time-series forecasting.
 3. Combining causality + model evaluation so we stop treating fairness and robustness like afterthoughts.
 
 ## 📂 Featured Projects
