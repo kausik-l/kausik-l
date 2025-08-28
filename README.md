@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kausik
 
-Welcome to my corner of GitHub, where AI systems come to be stress-tested, debugged, and occasionally bullied into behaving using my causal buddies.
+Welcome to my corner of GitHub, where AI systems come to be tested and debugged using causality-based techniques.
 
 I am a researcher (Ph.D. from the University of South Carolina) working at the intersection of robust AI, causality, and explainability. I build tools that do not just say models are good or bad, but prove it. Or break them trying.
 
@@ -28,7 +28,7 @@ Who you gonna call?? ARC!! I built this causal rating tool to measure robustness
 
 ## 🔬 Current Obsessions
 1. Making explainability interactive (not one-off) and hypothesis-driven.
-2. Testing LLaMA-3.1 on time-series forecasting.
+2. Estimating the robustness of composite AI models based on their individual components.
 3. Combining causality + model evaluation so we stop treating fairness and robustness like afterthoughts.
 
 ## 📂 Featured Projects
